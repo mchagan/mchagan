@@ -1,5 +1,13 @@
 # Hi there 👋
+
+I am a seasoned backend software developer.  I am now getting certification in frontend development for MCC.
+
+I am looking for new and exciting opportunities.
+
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: michaelchagan@gmail.com
+
+
 <!--
 **mchagan/mchagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
