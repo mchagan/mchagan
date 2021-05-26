@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a seasoned backend software developer.  I am now getting certification in frontend development for MCC.
+I am a seasoned backend software developer.  I am now getting certification in frontend development from MCC.
 
 I am looking for new and exciting opportunities.
 
