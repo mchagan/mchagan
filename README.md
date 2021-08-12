@@ -4,7 +4,7 @@ I am a seasoned backend software developer.  I am now getting certification in f
 
 I am looking for new and exciting opportunities.
 
-- 🌱 I’m a done learning HTML and CSS.
+- 🌱 I’m a done learning JavaScript.
 - 📫 How to reach me: michaelchagan@gmail.com
 
 
